@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Treino html </title>
+    <link rel="shortcut icon" href="falk ft.png" type="image/x-icon">
+    
+</head>
+
+<body>
+    <h1>Dc Legends</h1>
+    <hr>
+    <h2><ins>Batman</ins></h2>
+    <p>Bruce Wayne é um bilionário americano, magnata de negócios, filantropo e dono da corporação Wayne Enterprises. Sua história teve início após testemunhar o assassinato de seus pais ainda quando criança, o que o fez jurar vingança contra os criminosos e treinar todos os dias sozinho, além de criar um personagem baseado em um morcego para combater o crime. Foi aí que surgiu Batman, o super-herói da cidade de Gotham.
+
+        Apesar de não ter superpoderes, Batman faz uso de seu intelecto, conhecimento em artes marciais, destreza física e habilidades de detetive. Mesmo tendo uma grande variedade de vilões como inimigos, incluindo o grande destaque, <strong>Coringa</strong>, Batman é ajudado por vários personagens incluindo o mordomo Alfred Pennyworth, o comissário de polícia Jim Gordon e outros aliados como <a href="https://pt.wikipedia.org/wiki/Robin_(DC_Comics)" target="blank" rel="external">Robin</a>.
+        
+        Bruce Wayne mostra-se à sociedade como um playboy irresponsável e superficial rico, porém ele também é conhecido por contribuir para a caridade através da Fundação Wayne para ajudar vítimas de crimes e impedir a entrada no crime de jovens. Essa personalidade foi criada para que as pessoas não desconfiassem de seu alter ego.
+        
+        Enquanto <strong>Bruce Wayne</strong> é despreocupado e irresponsável, Batman é frio, determinado e implacável. Além do uniforme e da máscara, quando Batman, Wayne altera sua voz para ficar cada vez mais irreconhecível.</p>
+    
+    <img src="batmenor.png" alt="Batman">
+    
+    <hr>
+    <h2><ins>Super-Man</ins></h2>
+    <p>O nome de batismo do Superman é Kal-El. A princípio, seu pai, o cientista Jor-El, descobriu que Krypton seria destruída, por isso ele mandou Kal-El para Terra, na esperança de que ele fosse salvo.
+
+        Em seguida, a nave que levava o então bebê pousou em Smallville e foi encontrada pelo casal Jonathan e Martha Kent. Por fim, eles resolveram criar a criança como seu filho, que foi batizado novamente e agora se chamava <strong>Clark Kent</strong>.
+        
+        Logo no princípio, Clark demonstrou possuir grandes poderes, entretanto, seus pais pediram para que ele escondesse sua força. Apesar disso, o super-herói sempre os utilizava para salvar inocentes de alguns acidentes. Por fim, ao se tornar adulto, Clark mudou para Metrópolis, se tornou jornalista e foi trabalhar no Planeta Diário, como repórter.
+        
+        Nessa época, ele já tinha assumido a identidade de Superman e sempre vestia o seu uniforme característico para ajudar quem precisava. É claro, ninguém sabia que Clark Kent e Superman eram a mesma pessoa.
+        
+        No decorrer de sua história, vários personagens o ajudaram. Por exemplo, <a href="https://dc.fandom.com/pt-br/wiki/Lois_Lane_(Terra_Principal)"target="_blank" rel="external">Lois Lane</a> – seu par romântico e também jornalista -, Perry White, Lana Lang e Jimmy Olsen.</p>
+    <img src="super punch.png" alt="super">
+    <hr>
+    <h2><ins>The Flash</ins> </h2>
+        <p>Jason Peter Garrick é um estudante universitário antes de 1940 (mais tarde, retribuído a 1938) que inala acidentalmente vapores de água duros depois de adormecer em seu laboratório onde ele estava trabalhando (histórias posteriores mudariam isso para os vapores de água pesada) . Como resultado, ele descobre que ele pode correr a velocidade supra-humana e tem reflexos semelhantes de forma rápida (retcons implica que a inalação simplesmente ativou um metageno latente). Depois de uma breve carreira como uma estrela de futebol da faculdade, ele usa uma camisa vermelha com um raio e um capacete de metal estilizado com asas (com base em imagens do deus romano, Mercúrio) e começa a combater o crime como o Flash. O capacete pertencia ao pai de Jay, Joseph, que lutou durante a Primeira Guerra Mundial. Ele foi visto usando o capacete como uma arma/tipo de escudo, como visto em Crise Infinita. Ele também o usou para irradiar luz no Eclipso.</p>
+        <img src="Flsh.jpg" alt="fllash">
+    
+    
+</body>
+</html>
