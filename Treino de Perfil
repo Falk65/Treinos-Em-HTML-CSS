@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil</title>
+    <link rel="shortcut icon" href="falk ft.png" type="iconfalk.png">
+</head>
+<body>
+    <h1>Minhas redes sociais</h1>
+    <h2>Quem sou eu ?</h2>
+    <img src="20230705_212838.jpg" alt="foto falk">
+    <p>Meu nome é <strong>Fabricio</strong>, tenho 19 anos, atualmente estudo engenharia da computação e pretendo seguir carreira na área de "T.i", Gosto de jogos faço músicas e tenho muita vontade de que tudo der certo, não sei se vaidar, mais sei que vou dar o meu melhor em tudo e sempre ser uma pessoa que me orgulho.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima nobis praesentium ex, natus quibusdam ullam accusamus pariatur illo facilis earum excepturi, soluta enim, voluptate possimus quisquam assumenda iusto incidunt quidem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur aliquam cupiditate totam accusantium laborum magnam pariatur possimus atque dolor saepe alias, accusamus itaque aut eius nisi provident quos maiores dolorem? </p>
+    <h2>Minhas Redes</h2>
+    <ul>
+        <li><img src="icone-facebook.png" alt="imgface">/ <a href="https://www.facebook.com/fabricio.adaoalves" target="_blank" rel="external">Fabricio Adão Alves </a>-Me acompanha lá no Face </li>
+        <li><img src="icone-instagram.png" alt="insta">/ <a href="https://www.instagram.com/falk_65_/" target="_blank" rel="external">falk_65_</a>-Segue o pai lá </li>
+        <li><img src="icone-linkedin.png" alt="linkedin">/ <a href="https://www.linkedin.com/in/fabrício-adão-alves-797536220/" target="_blank" rel="external">Fabricio Adão Alves</a>-Me indica no seu trampo!</li>
+        <li><img src="icone-youtube.png" alt="youtube">/ <a href="https://www.youtube.com/channel/UCHlm_cgkapHpVFtBI1ckD7w" target="_blank" rel="external">@f.a1323</a>-Se inscreve la no canal do tio</li>
+    </ul>
+    
+</body>
+</html>
